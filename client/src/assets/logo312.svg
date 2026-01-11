@@ -1,0 +1,22 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&amp;display=swap');
+    </style>
+  </defs>
+  
+  <text 
+    x="50%" 
+    y="55%" 
+    dominant-baseline="middle" 
+    text-anchor="middle" 
+    font-family="'Outfit', sans-serif" 
+    font-weight="800" 
+    font-size="75" 
+    letter-spacing="1"
+    font-style="italic">
+    
+    <tspan fill="#4fbf8b">P</tspan><tspan fill="#2B3441">rimePick</tspan>
+  
+  </text>
+</svg>
