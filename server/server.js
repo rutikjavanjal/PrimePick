@@ -9,7 +9,7 @@ import connectCloudinary from './configs/cloudinary.js';
 import productRouter from './routes/productRoutes.js';
 import cartRouter from './routes/cartRoute.js';
 import addressRouter from './routes/addressRoute.js';
-import orderRouter from './routes/orderroutes.js';
+import orderRouter from './routes/orderRoutes.js';
 import { stripeWebhooks } from './controllers/orderController.js';
 
 const app = express();
